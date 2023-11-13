@@ -3,7 +3,7 @@
 </div>
 
 ## About OldRecRoom
-
+2024
 OldRecRoom is a server for old Rec Room builds!
 
 ## Disclaimer
@@ -22,20 +22,25 @@ This project is not affiliated with [Rec Room](https://recroom.com/) in any way,
 
 **OldRecRoom is not...**
 ❌ like OpenRec
+
 ❌ C#
+
 ❌ slow and bloated
+
 ❌Offline
-❌localhostable server for single person use ([It is possible to play with others however!](#q-is-it-possible-to-play-with-other-people-with-recnetjs))
+
+❌localhostable server for single person use 
+
 ## Build support list
 
-[Read this part of the FaQ before making an issue that your build doesn't work!](#q-my-build-doesnt-work)
+
 
 | Year | Supported | 
 |------|-----------|
 | 2016 | ✅       | 
 | 2017 | ✅       | 
 | 2018 | ✅       |
-| 2019 | ✅❌     | 
+| 2019 | ✅❌     |  (Gonna add support at a later date
 | 2020 | ✅❌     | 
 | 2021 | ❌        | 
 | 2022 | ❌        |             
