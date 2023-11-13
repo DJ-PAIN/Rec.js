@@ -32,6 +32,24 @@ This project is not affiliated with [Rec Room](https://recroom.com/) in any way,
 
 ❌localhostable server for single person use 
 
+
+## Performance Metrics
+
+- Boot Time: 6.5 seconds
+- Dorm Initialization (including amplitude): 15.8 seconds (may seem long, but its not)
+- Coach's Dialogue on May 30th: 18.7 seconds
+- Room Switching: 4.3 seconds
+- Friend Finding: 1.3 seconds
+
+
+### OpenRec Times 
+
+- Dorm Initialization (including amplitude): 30.8 seconds 
+
+That means OldRec is  64.37%* faster then OpenRec 
+
+(* bc my math is shit)
+
 ## Build support list
 
 
@@ -41,14 +59,14 @@ This project is not affiliated with [Rec Room](https://recroom.com/) in any way,
 | 2016 | ✅       | 
 | 2017 | ✅       | 
 | 2018 | ✅       |
-| 2019 | ✅❌     |  (Gonna add support at a later date
-| 2020 | ✅❌     | 
+| 2019 | ✅❌     |  (add support at a later date
+| 2020 | ✅❌     | (add support at a later date
 | 2021 | ❌        | 
 | 2022 | ❌        |             
 | 2023 | ❌        | 
 
 
-#
+# Creds 
 - Brahman - Lead Dev for the OldRec-Client
 
 
